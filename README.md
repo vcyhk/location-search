@@ -3,7 +3,7 @@
 <img src="/screenshot/1.png">
 
 ## Build Setup
-Demo: [http://location-search.vitochan.com](http://location-search.vitochan.com)
+Demo: <a href="https://location-search.vitochan.com" target="_blank">https://location-search.vitochan.com</a>
 
 ## Build Setup
 
