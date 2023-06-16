@@ -2,11 +2,19 @@
 
 <img src="/screenshot/1.png">
 
-## Build Setup
+## Demo
 Demo: <a href="https://location-search.vitochan.com" target="_blank">https://location-search.vitochan.com</a>
 
 ## Build Setup
 
+Place the Google API in dev.env.js
+``` bash
+module.exports = merge(prodEnv, {
+  NODE_ENV: '"development"',
+  GOOGLE_API : '"API_KEY"'
+})
+```
+Run the script
 ``` bash
 # install dependencies
 npm install
