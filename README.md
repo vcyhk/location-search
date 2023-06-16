@@ -2,9 +2,6 @@
 
 <img src="/screenshot/1.png">
 
-## Demo
-Demo: <a href="https://location-search.vitochan.com" target="_blank">https://location-search.vitochan.com</a>
-
 ## Build Setup
 
 Place the Google API in dev.env.js
@@ -24,3 +21,7 @@ npm run dev
 
 # build for production with minification
 npm run build
+```
+
+## Demo
+Demo: <a href="https://location-search.vitochan.com" target="_blank">https://location-search.vitochan.com</a>
