@@ -3,6 +3,9 @@
 <img src="/screenshot/1.png">
 
 ## Build Setup
+Demo: [http://location-search.vitochan.com](http://location-search.vitochan.com)
+
+## Build Setup
 
 ``` bash
 # install dependencies
